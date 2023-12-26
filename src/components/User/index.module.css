@@ -1,0 +1,30 @@
+.list_item {
+  background-color: rgb(203, 219, 224);
+  border: 2px solid purple;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.buttons {
+  display: flex;
+  gap: 25px;
+}
+.button {
+  padding: 30px;
+  font-size: 10px;
+  cursor: pointer;
+  background-color: rgba(19, 48, 128, 0.863);
+  border: none;
+  color: white;
+  font-size: 25px;
+}
+.title {
+  color: rgba(17, 42, 110, 0.863);
+  font-size: 26px;
+  margin-right: 20px;
+}
+
+.link {
+  font-size: 25px;
+}

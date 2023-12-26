@@ -1,0 +1,14 @@
+.title {
+  color: rgb(102, 66, 233);
+  font-size: 80px;
+  text-align: center;
+  padding: 150px 100px 70px 100px;
+}
+.text {
+  font-size: 20px;
+}
+.link {
+  font-size: 40px;
+  margin-top: 80px;
+  text-align: center;
+}
